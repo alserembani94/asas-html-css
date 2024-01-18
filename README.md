@@ -92,7 +92,7 @@ git config --global user.name "<NAMA_ANDA>"
 git config --global user.email "<EMEL_GITHUB_ANDA>"
 ```
 
-Sila gantikan `<NAMA_AWAK>` dan `<EMEL_GITHUB_AWAK>` kepada nama dan email anda.
+Sila gantikan `<NAMA_ANDA>` dan `<EMEL_GITHUB_ANDA>` kepada nama dan email anda.
 
 Di bawah hanya sekadar contoh:
 ```
